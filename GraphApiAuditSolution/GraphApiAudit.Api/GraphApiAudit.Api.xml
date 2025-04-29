@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>GraphApiAudit.Api</name>
+  </assembly>
+  <members>
+    <member name="T:GraphApiAudit.Api.Controllers.AuditController">
+      <summary>
+        Handles HTTP GET requests for retrieving audit metrics.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Controllers.RunController">
+      <summary>
+        Handles HTTP POST requests to trigger a new execution of the metrics collection process.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Data.AuditDbContext">
+      <summary>
+        Represents the Entity Framework Core database context for the API.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Data.Entities.ApiCallMetric">
+      <summary>
+        Defines the structure of the ApiCallMetrics table.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Data.Entities.WorkloadUsageStat">
+      <summary>
+        Defines the structure of the WorkloadUsageStats table.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Data.Entities.AuditEvent">
+      <summary>
+        Defines the structure of the AuditEvents table.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Data.Entities.ApiConnectorUsage">
+      <summary>
+        Defines the structure of the ApiConnectorUsage table.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Data.Entities.RunExecution">
+      <summary>
+        Defines the structure of the RunExecutions table.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Program">
+      <summary>
+        Entry point of the API application.
+      </summary>
+    </member>
+    <member name="T:GraphApiAudit.Api.Startup">
+      <summary>
+        Configures the services and middleware for the ASP.NET Core application.
+      </summary>
+    </member>
+  </members>
+</doc>
