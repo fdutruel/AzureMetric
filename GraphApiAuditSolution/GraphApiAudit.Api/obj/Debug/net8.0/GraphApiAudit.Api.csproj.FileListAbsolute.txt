@@ -1,7 +1,0 @@
-C:\Workspaces\TenantMetric\GraphApiAuditSolution\GraphApiAudit.Api\obj\Debug\net8.0\GraphApiAudit.Api.csproj.AssemblyReference.cache
-C:\Workspaces\TenantMetric\GraphApiAuditSolution\GraphApiAudit.Api\obj\Debug\net8.0\GraphApiAudit.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Workspaces\TenantMetric\GraphApiAuditSolution\GraphApiAudit.Api\obj\Debug\net8.0\GraphApiAudit.Api.AssemblyInfoInputs.cache
-C:\Workspaces\TenantMetric\GraphApiAuditSolution\GraphApiAudit.Api\obj\Debug\net8.0\GraphApiAudit.Api.AssemblyInfo.cs
-C:\Workspaces\TenantMetric\GraphApiAuditSolution\GraphApiAudit.Api\obj\Debug\net8.0\GraphApiAudit.Api.csproj.CoreCompileInputs.cache
-C:\Workspaces\TenantMetric\GraphApiAuditSolution\GraphApiAudit.Api\obj\Debug\net8.0\GraphApiAudit.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Workspaces\TenantMetric\GraphApiAuditSolution\GraphApiAudit.Api\obj\Debug\net8.0\GraphApiAudit.Api.MvcApplicationPartsAssemblyInfo.cache
